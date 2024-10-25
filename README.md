@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <p align="center">
     <a href="https://solved.ac/profile/kys1651">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kys1651&cache=c">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kys1651">
     </a>
 </p>
 
